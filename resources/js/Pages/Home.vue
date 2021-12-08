@@ -1,5 +1,5 @@
 <template>
-    <h1>{{ exampleProp }}</h1>
+    <h1 class="pl-5">{{ exampleProp }}</h1>
 </template>
 
 <script setup>
